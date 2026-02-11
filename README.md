@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Poom
 
-<!--
-**StarNight339/StarNight339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Chill Developer | Content Creator  
+🎮 Minecraft Server Owner | Web Developer  
+🌌 Building things with code, creativity, and curiosity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔧 Currently building Minecraft plugins & systems
+- 🌐 Creating websites & experimenting with backend systems
+- 🎮 Working on game development (Unity 2D project)
+- 💡 Love turning ideas into real working systems
+- 📍 Based in Thailand
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+- HTML / CSS
+- C#
+
+**Tools & Platforms**
+- Spigot / Paper (Minecraft)
+- Unity
+- Git & GitHub
+- VS Code / IntelliJ
+
+---
+
+## 🌟 Current Projects
+
+- 🐾 Neko Nye SMP (Minecraft Server)
+- 🛒 Web-based item shop system
+- 🎮 2D Action Game (Unity)
+- ⚡ Custom Minecraft Modes & Plugins
+
+---
+
+## 📊 GitHub Stats
+
+![StarNight's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- YouTube: https://www.youtube.com/@StarANight339
+- TikTok: https://www.tiktok.com/@staranight339
+- Discord: (https://discord.gg/XRyca9A9zu)
+
+---
+
+> "Code. Build. Improve. Repeat."
