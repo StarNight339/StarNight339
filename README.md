@@ -55,7 +55,7 @@
 
 ---
 
-<img src="https://your-direct-gif-url.gif" alt="Alternative text" width="50%" height="50%"/>
+![Alternative text for accessibility](https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif)
 
 
 > "Code. Build. Improve. Repeat."
