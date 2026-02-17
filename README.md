@@ -45,13 +45,6 @@
 | 🎮 **2D Action Game** | Unity-based action game (In Development) |
 | ⚡ **Custom Plugins** | Advanced Minecraft modes & mechanics |
 
----
-
-## 📊 GitHub Statistics
-
-![StarNight's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarNight339&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1a2e&text_color=eaeaea&border_color=667eea)
-
----
 
 ## 📖 My Journey
 
