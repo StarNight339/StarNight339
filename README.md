@@ -32,9 +32,9 @@
 ## 📊 GitHub Stats / สถิติ
 
 <!-- These widgets read your real data once the username is correct -->
-![StarNight's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarNight&show_icons=true&hide_border=true)
+![StarNight's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarNight339&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarNight&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarNight339&layout=compact&hide_border=true)
 
 ---
 
