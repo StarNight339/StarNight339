@@ -8,26 +8,26 @@
 
 ## About
 
-สวัสดีครับ 👋 ผม StarNight นักพัฒนาจาก **CelestiRift Studios**
-ชอบสร้างเว็บ ระบบ self-hosted และบอท และหาอะไรใหม่ ๆ มาเรียนอยู่เรื่อย ๆ
+Hi there 👋 I'm StarNight, a developer at **CelestiRift Studios**.
+I build websites, self-hosted systems, and bots, and I'm always picking up something new.
 
 ## Interests
 
-- **Web Development**: ทำเว็บแบบ full-stack ด้วย Next.js และ Node.js
+- **Web Development**: full-stack apps with Next.js and Node.js
 - **Self-hosting & Networking**: Docker, Cloudflare Tunnel, port forwarding
-- **Bots & AI**: Discord bot ที่ทำงานร่วมกับ LLM
-- **Game Servers**: ดูแลเซิร์ฟเวอร์ Minecraft ทั้ง Java และ Bedrock
-- **Linux**: ใช้ Arch Linux + Hyprland เป็นเครื่องหลัก
-- **Cybersecurity**: กำลังเรียนรู้และฝึกเล่น CTF
+- **Bots & AI**: Discord bots powered by LLMs
+- **Game Servers**: running Minecraft servers (Java & Bedrock)
+- **Linux**: Arch Linux + Hyprland as my daily driver
+- **Cybersecurity**: learning the ropes through CTFs
 
 ## Projects
 
-| Project | Description | Language |
-| --- | --- | --- |
-| [Dynamic-Island-for-Windows](https://github.com/StarNight339/Dynamic-Island-for-Windows) | Dynamic Island บน Windows แสดงเพลง ระดับเสียง เวลา และสถานะ AI | C# |
-| [LLMDiscord-use-bot-for-LLM](https://github.com/StarNight339/LLMDiscord-use-bot-for-LLM) | Discord bot ที่ทำงานร่วมกับ LLM | JavaScript |
-| [tcp-explainer](https://github.com/StarNight339/tcp-explainer) | เว็บอธิบายการทำงานของ TCP | JavaScript |
-| [SPEECH](https://github.com/StarNight339/SPEECH) | โปรเจกต์ด้านเสียงพูด | Python |
+| Project                                                                                  | Description                                                             | Language   |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
+| [Dynamic-Island-for-Windows](https://github.com/StarNight339/Dynamic-Island-for-Windows) | A Dynamic Island for Windows showing music, volume, time, and AI status | C#         |
+| [LLMDiscord-use-bot-for-LLM](https://github.com/StarNight339/LLMDiscord-use-bot-for-LLM) | A Discord bot that talks to an LLM                                      | JavaScript |
+| [tcp-explainer](https://github.com/StarNight339/tcp-explainer)                           | A web page that explains how TCP works                                  | JavaScript |
+| [SPEECH](https://github.com/StarNight339/SPEECH)                                         | A speech-related project                                                | Python     |
 
 ## Tools
 
@@ -36,8 +36,8 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,cs,html,css" alt="Languages" />
 </p>
 <p>
-  <b>Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs" alt="Frameworks" />
+  <b>Frameworks & Engines</b><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,unity" alt="Frameworks and Engines" />
 </p>
 <p>
   <b>DevOps & Infra</b><br/>
@@ -53,6 +53,6 @@
 
 ## Contact
 
-อีเมล: tenshino339@gmail.com · **CelestiRift Studios**: ชุมชนสำหรับนักพัฒนา ครีเอเตอร์ และนักสร้างสรรค์
+Email: tenshino339@gmail.com · **CelestiRift Studios**: a community for developers, creators, and innovators
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
