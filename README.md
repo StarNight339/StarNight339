@@ -1,48 +1,58 @@
-# Hi, I'm StarNight 👋
+<div align="center">
 
-> Developer · Creator · Innovator — building things at **CelestiRift Studios**.
->
-> นักพัฒนาและครีเอเตอร์ ชอบสร้างเว็บ ระบบ self-hosted และบอท พร้อมเรียนรู้สิ่งใหม่อยู่เสมอ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=200&section=header&text=StarNight&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CelestiRift%20Studios&descAlignY=58&descSize=18" width="100%" alt="StarNight banner" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Full-stack+Developer;Self-hosting+Enthusiast;Bot+%26+AI+Builder" alt="Typing SVG" />
 
-## 🚀 About / เกี่ยวกับฉัน
+</div>
 
-- 🌐 **Full-stack web** — สร้างเว็บด้วย Next.js และ Node.js
-- ☁️ **Self-hosting & networking** — Cloudflare Tunnel, Docker, การทำ port forwarding
-- 🤖 **Bots & AI** — Discord bot ที่ขับเคลื่อนด้วย LLM (Gemini)
-- 🟩 **Game servers** — ดูแล Minecraft server (Java & Bedrock)
-- 🐧 **Daily driver** — Arch Linux + Hyprland
-- 🔐 **Learning** — Cybersecurity & CTF
+## About
 
----
+สวัสดีครับ 👋 ผม StarNight นักพัฒนาจาก **CelestiRift Studios**
+ชอบสร้างเว็บ ระบบ self-hosted และบอท และหาอะไรใหม่ ๆ มาเรียนอยู่เรื่อย ๆ
 
-## 🛠️ Tech Stack / เครื่องมือที่ใช้
+## Interests
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Web Development**: ทำเว็บแบบ full-stack ด้วย Next.js และ Node.js
+- **Self-hosting & Networking**: Docker, Cloudflare Tunnel, port forwarding
+- **Bots & AI**: Discord bot ที่ทำงานร่วมกับ LLM
+- **Game Servers**: ดูแลเซิร์ฟเวอร์ Minecraft ทั้ง Java และ Bedrock
+- **Linux**: ใช้ Arch Linux + Hyprland เป็นเครื่องหลัก
+- **Cybersecurity**: กำลังเรียนรู้และฝึกเล่น CTF
 
----
+## Projects
 
-## 📊 GitHub Stats / สถิติ
+| Project | Description | Language |
+| --- | --- | --- |
+| [Dynamic-Island-for-Windows](https://github.com/StarNight339/Dynamic-Island-for-Windows) | Dynamic Island บน Windows แสดงเพลง ระดับเสียง เวลา และสถานะ AI | C# |
+| [LLMDiscord-use-bot-for-LLM](https://github.com/StarNight339/LLMDiscord-use-bot-for-LLM) | Discord bot ที่ทำงานร่วมกับ LLM | JavaScript |
+| [tcp-explainer](https://github.com/StarNight339/tcp-explainer) | เว็บอธิบายการทำงานของ TCP | JavaScript |
+| [SPEECH](https://github.com/StarNight339/SPEECH) | โปรเจกต์ด้านเสียงพูด | Python |
 
-<!-- These widgets read your real data once the username is correct -->
-![StarNight's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarNight339&show_icons=true&hide_border=true)
+## Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StarNight339&layout=compact&hide_border=true)
+<p>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,html,css" alt="Languages" />
+</p>
+<p>
+  <b>Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs" alt="Frameworks" />
+</p>
+<p>
+  <b>DevOps & Infra</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,linux,arch,git,github" alt="DevOps and Infra" />
+</p>
 
----
+## GitHub Stats
 
-## 📫 Contact / ติดต่อ
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StarNight339&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarNight339&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
 
-- 📧 Email: tenshino339@gmail.com
-- 🌌 CelestiRift Studios — *Community for Developers, Creators, and Innovators*
+## Contact
 
----
+อีเมล: tenshino339@gmail.com · **CelestiRift Studios**: ชุมชนสำหรับนักพัฒนา ครีเอเตอร์ และนักสร้างสรรค์
 
-<sub>⭐ ขอบคุณที่แวะมา — Thanks for stopping by!</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
